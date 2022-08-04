@@ -1,2 +1,3 @@
-# rileys-pin-shop
-Website created using React, Node.js, Redux. E-commerce-like site for pinterest pins.
+# Riley's Pinterest Inspired E-Commerce Shop
+### Frameworks / Technologies / Languages Used:
+React, Redux, Node.js, JavaScript, HTML, CSS
